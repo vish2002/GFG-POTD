@@ -1,5 +1,5 @@
-Odd Even Problem
-GFG-EASY  01-06-2024
+// Odd Even Problem
+// GFG-EASY  01-06-2024
 
 
 string oddEven(string s)
