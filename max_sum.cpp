@@ -1,5 +1,5 @@
 // Max sum in the configuration
-// GFG:Medium 07-06-2024
+// GFG:Medium 06-06-2024
 
 long max_sum(int arr[], int n) {
     long sum = 0;
