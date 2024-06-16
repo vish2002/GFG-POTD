@@ -1,5 +1,5 @@
 // Mobile numeric keypad
-// GFG: Medium 16-06-2024
+// GFG: Medium 15-06-2024
 typedef long long ll;
 int row_dir[5] = {0, -1, 1, 0, 0};  
 int col_dir[5] = {0, 0, 0, -1, 1};
