@@ -1,3 +1,5 @@
+// GFG: Medium 20-06-2024
+
 class Solution {
   public:
    long long int gcd(long long int a, long long int b){
