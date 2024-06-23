@@ -16,14 +16,10 @@ vector<int> bracketNumbers(string str) {
             }
             if(str[i]==')')
             {
-                while(!s.empty() && s.top().first!='(')
+                if(!s.empty() && s.top().first=='(')
                 {
+                    ans.push_back(s.top().second);
                     s.pop();
-                }
-                if(!s.empty())
-                {
-                ans.push_back(s.top().second);
-                s.pop();
                 }
             }
         }
