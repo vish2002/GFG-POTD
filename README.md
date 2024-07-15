@@ -53,9 +53,6 @@ Welcome to the repository containing solutions for the GeeksforGeeks (GFG) Probl
 ## Languages Used
 
 - C++
-- Python
-- Java
-
 
 ## Directory Structure
 
